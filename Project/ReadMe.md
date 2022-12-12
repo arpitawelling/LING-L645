@@ -61,4 +61,4 @@ So if the input is риӄукэтэ и, the model predicted внин which compl
 
 For evaluating this model, we will count clicks/tokens. For example, for the word ӄԓявыԓя, there are 7 clicks by user and for риӄукэтэ word there are 4 clicks by user so clicks per token will be 11/2 = 5.5
 
-For the test data the clicks/token is __ and for validation set it is .
+For the test data the clicks/token is 7.13 and for validation set it is 5.74.

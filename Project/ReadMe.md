@@ -66,7 +66,11 @@ For the test data the clicks/token is 7.13 and for validation set it is 5.74.
 #### File structure:
 
 Model 1: Text_prediction-Sequence length 15 new validation.ipynb
+
 Model 2: LSTM_embedding_layer_dropout50_new-seqlength10-epochs70.ipynb
-Model 2 prediction on dev and test data: Prediction-dev.ipynb, Prediction-test.ipynb
+
+Model 2 prediction on dev and test data: Prediction-dev.ipynb, Prediction-test.ipynb 
+
 Output: Output folder 
-Model : LSTM_embeddinglayer_dropout50_epochs70_final.dat
+
+Model : LSTM_embeddinglayer_dropout50_epochs70_final.dat 

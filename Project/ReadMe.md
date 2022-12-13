@@ -1,4 +1,4 @@
-## Project for CSCI-659 and Independent Study CSCI-Y
+## Project for CSCI B-659 and Independent Study CSCI-Y 790
 
 ### Predictive Text for Chukchi
 
@@ -73,4 +73,17 @@ Model 2 prediction on dev and test data: Prediction-dev.ipynb, Prediction-test.i
 
 Output: Output folder 
 
-Model : LSTM_embeddinglayer_dropout50_epochs70_final.dat 
+Model : LSTM_embeddinglayer_dropout50_epochs70_final.dat
+
+#### References:
+
+Original repository: https://github.com/ftyers/global-classroom/tree/main/chukchi
+
+Text Prediction articles: https://medium.com/@curiousily/making-a-predictive-keyboard-using-recurrent-neural-networks-tensorflow-for-hackers-part-v-3f238d824218
+
+https://towardsdatascience.com/word-and-character-based-lstms-12eb65f779c2
+
+Articles on text entry: https://www.yorku.ca/mack/hcimobile02.html
+
+Survey paper: https://www.sciencedirect.com/science/article/pii/S1319157820303360
+
